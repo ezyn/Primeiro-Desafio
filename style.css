@@ -1,0 +1,13 @@
+td, th {
+    border: 1px solid black;
+    color: white;
+}
+
+th {
+    background-color: #BB86FC;
+    color: black;
+}
+
+td {
+    background-color: #424250;
+}
